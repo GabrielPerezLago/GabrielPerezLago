@@ -1,7 +1,6 @@
+# ¡Hola, Soy Gabriel!
+
 <br clear="both">
-
-
-#¡Hola, Soy Gabriel!
 
 ###
 
