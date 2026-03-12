@@ -16,9 +16,9 @@
   <a href="https://www.instagram.com/gabrii.pl_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="gabrielperezlago.dev@outlook.com" target="_blank">
+  <!-- <a href="gabrielperezlago.dev@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
+  </a> -->
 </div>
 
 ###
