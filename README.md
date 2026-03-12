@@ -1,5 +1,5 @@
 
-<div alingn="center">
+<div align="center">
   
 # ¡Hola, Soy Gabriel!
 
