@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">¡Soy Gabriel!</h1>
+<h1 style="font-size=5rem" align="center">¡Soy Gabriel!</h1>
 
 ###
 
@@ -29,8 +29,6 @@
 
 
 ###
-
-<img src="https://raw.githubusercontent.com/GabrielPerezLago/GabrielPerezLago/output/snake.svg" alt="Snake animation" />
 
 ###
 
