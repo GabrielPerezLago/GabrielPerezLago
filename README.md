@@ -1,6 +1,5 @@
 <br clear="both">
-
-<h1 style="font-size=5rem" align="center">¡Soy Gabriel!</h1>
+# ¡Hola, Soy Gabriel!
 
 ###
 
